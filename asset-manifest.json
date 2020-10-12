@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/polskienewsy/static/css/main.a9577e2d.chunk.css",
+    "main.js": "/polskienewsy/static/js/main.05e03d16.chunk.js",
+    "main.js.map": "/polskienewsy/static/js/main.05e03d16.chunk.js.map",
+    "runtime-main.js": "/polskienewsy/static/js/runtime-main.66461793.js",
+    "runtime-main.js.map": "/polskienewsy/static/js/runtime-main.66461793.js.map",
+    "static/js/2.1eda5610.chunk.js": "/polskienewsy/static/js/2.1eda5610.chunk.js",
+    "static/js/2.1eda5610.chunk.js.map": "/polskienewsy/static/js/2.1eda5610.chunk.js.map",
+    "index.html": "/polskienewsy/index.html",
+    "precache-manifest.8f2a9679cd806443e15ab7f9509f4eca.js": "/polskienewsy/precache-manifest.8f2a9679cd806443e15ab7f9509f4eca.js",
+    "service-worker.js": "/polskienewsy/service-worker.js",
+    "static/css/main.a9577e2d.chunk.css.map": "/polskienewsy/static/css/main.a9577e2d.chunk.css.map",
+    "static/js/2.1eda5610.chunk.js.LICENSE.txt": "/polskienewsy/static/js/2.1eda5610.chunk.js.LICENSE.txt",
+    "static/media/article.jpg": "/polskienewsy/static/media/article.717bfd83.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.66461793.js",
+    "static/js/2.1eda5610.chunk.js",
+    "static/css/main.a9577e2d.chunk.css",
+    "static/js/main.05e03d16.chunk.js"
+  ]
+}
