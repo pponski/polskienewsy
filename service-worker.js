@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/polskienewsy/precache-manifest.5e2021eb7bd0180cc66e5b4e9f01dfd5.js"
+  "/polskienewsy/precache-manifest.a1d560993b704b168802602d4636f4c0.js"
 );
 
 self.addEventListener('message', (event) => {

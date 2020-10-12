@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "dc07075d59be77746eb7f21f4e36a2a3",
+    "revision": "4be0971c7a75e95564462725bbccd83f",
     "url": "/polskienewsy/index.html"
   },
   {
-    "revision": "6706022253e54191945c",
+    "revision": "8150f982e467f1c854c8",
     "url": "/polskienewsy/static/css/main.a9577e2d.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/polskienewsy/static/js/2.1eda5610.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "6706022253e54191945c",
-    "url": "/polskienewsy/static/js/main.f610ce64.chunk.js"
+    "revision": "8150f982e467f1c854c8",
+    "url": "/polskienewsy/static/js/main.cf8313a2.chunk.js"
   },
   {
     "revision": "c34089520515208e38a5",

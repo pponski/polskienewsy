@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/polskienewsy/static/css/main.a9577e2d.chunk.css",
-    "main.js": "/polskienewsy/static/js/main.f610ce64.chunk.js",
-    "main.js.map": "/polskienewsy/static/js/main.f610ce64.chunk.js.map",
+    "main.js": "/polskienewsy/static/js/main.cf8313a2.chunk.js",
+    "main.js.map": "/polskienewsy/static/js/main.cf8313a2.chunk.js.map",
     "runtime-main.js": "/polskienewsy/static/js/runtime-main.66461793.js",
     "runtime-main.js.map": "/polskienewsy/static/js/runtime-main.66461793.js.map",
     "static/js/2.1eda5610.chunk.js": "/polskienewsy/static/js/2.1eda5610.chunk.js",
     "static/js/2.1eda5610.chunk.js.map": "/polskienewsy/static/js/2.1eda5610.chunk.js.map",
     "index.html": "/polskienewsy/index.html",
-    "precache-manifest.5e2021eb7bd0180cc66e5b4e9f01dfd5.js": "/polskienewsy/precache-manifest.5e2021eb7bd0180cc66e5b4e9f01dfd5.js",
+    "precache-manifest.a1d560993b704b168802602d4636f4c0.js": "/polskienewsy/precache-manifest.a1d560993b704b168802602d4636f4c0.js",
     "service-worker.js": "/polskienewsy/service-worker.js",
     "static/css/main.a9577e2d.chunk.css.map": "/polskienewsy/static/css/main.a9577e2d.chunk.css.map",
     "static/js/2.1eda5610.chunk.js.LICENSE.txt": "/polskienewsy/static/js/2.1eda5610.chunk.js.LICENSE.txt",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.66461793.js",
     "static/js/2.1eda5610.chunk.js",
     "static/css/main.a9577e2d.chunk.css",
-    "static/js/main.f610ce64.chunk.js"
+    "static/js/main.cf8313a2.chunk.js"
   ]
 }
