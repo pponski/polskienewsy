@@ -1,0 +1,49 @@
+/* UKŁAD STRONY */
+#root{ 
+    display: flex;
+    flex-wrap: wrap;
+    width: 100vw;
+    height: 100vh;
+    overflow-x: hidden;
+  }
+  
+  .navigation{
+    position: fixed;
+    left: 0;
+    right: 0;
+    height: 80px;
+    box-shadow: 0 10px 30px 3px rgba(0, 0, 0, 0.128);
+    background-color: white;
+  }
+  
+  main{
+    width: 100%;
+    margin-top: 80px;
+    background-color: #ccc;
+    display: flex;
+  }
+  
+  main .page{
+    width: 85%;
+    margin-left: 15%;
+  }
+  
+  main aside{
+    position: fixed;
+    left: 0;
+    width: 15%;
+    height: calc(100% - 80px);
+    display: flex;
+    flex-direction: column;
+    background-color: #333;
+    color: white;
+    padding: 100px 10px;
+    text-align: center;
+  }
+  
+  main aside .calendar{
+    height: 50%;
+  }
+  main aside .weather{
+    height: 50%;
+  }

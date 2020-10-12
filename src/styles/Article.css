@@ -1,0 +1,59 @@
+.article{
+    height: 250px;
+    width: 700px;
+    margin: 20px auto;
+    background-color: white;
+    display: flex;
+    border-radius: 10px;
+}
+
+
+.article .img{
+   height: 100%;
+   width: 35%;
+   background-size: contain;
+   border-radius: 10px 0 0 10px;
+}
+
+.article .content{
+    width: 65%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    padding: 30px 20px;
+}
+
+.article .content .title{
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 1.5;
+    color: #333;
+}
+
+.article .content button{
+    display: block;
+    align-self: flex-end;
+    width: 50%;
+    border: none;
+}
+
+.article .content button a{
+    font-family: Montserrat,sans-serif;
+    font-weight: 600;
+    text-decoration: none;
+    color: white;
+    background-color: #666;
+    border: none;
+    padding: 20px 10px;
+    text-transform: uppercase;
+    display: block;
+    align-self: flex-end;
+    cursor: default;
+    border-radius: 10px;
+    transition: .2s ease-in;
+}
+
+.article .content button a:hover{
+   background-color: #333;
+}
+

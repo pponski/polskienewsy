@@ -1,0 +1,42 @@
+.calendar{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    flex-grow: 1;
+    color: #ddd;
+}
+
+.calendar .time{
+    width: 80%;
+    display: flex;
+    justify-content: center;
+    margin: 0 auto;
+    font-size: 28px;
+    font-weight: 600;
+    padding-bottom: 15px;
+}
+
+.calendar .time div{
+    width: 20%;
+}
+
+.calendar .time div:nth-of-type(2){
+    width: 40%;
+}
+
+.calendar .dayNumber{
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    font-size: 22px;
+    font-weight: 600;
+    padding-bottom: 20px;
+}
+
+.calendar .date{
+    font-size: 20px;
+}
+
+.watchIcon{
+    font-size: 60px;
+    padding-bottom: 10px;
+}
